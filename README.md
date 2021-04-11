@@ -5,6 +5,8 @@ Found at: https://cwe.mitre.org/top25/archive/2020/2020_cwe_top25.html
 
 Discussions focus on the Top 25:
 
+![image](https://user-images.githubusercontent.com/34382502/114310101-9ede6600-9ab7-11eb-8347-9ba8239ff21b.png)
+
 Rank	ID	Name	Score
 [1]	CWE-79	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')	46.82
 [2]	CWE-787	Out-of-bounds Write	46.17
