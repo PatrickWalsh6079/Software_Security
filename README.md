@@ -1,5 +1,5 @@
 # Software_Security
-This repository has descriptions and code examples from the Common Weakness Enumeration (CWE) Top 25 Most Dangerous Software Weaknesses.
+This repository has descriptions and code examples of software weaknesses and mitigation techniques, including from the Common Weakness Enumeration (CWE) Top 25 Most Dangerous Software Weaknesses.
 
 Found at: https://cwe.mitre.org/top25/archive/2020/2020_cwe_top25.html
 
