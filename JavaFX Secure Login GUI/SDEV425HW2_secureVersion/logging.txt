@@ -1,0 +1,22 @@
+Jul 13, 2021 11:35:17 AM sdev425hw2_secureVersion.SDEV425HW2_secureVersion start
+INFO: PRIVACY NOTICE MESSSAGE
+Host IP address: 172.31.208.1
+Hostname: PWalsh-E570
+UTC timestamp: 2021-07-13T15:35:17.367Z
+Jul 13, 2021 11:35:19 AM sdev425hw2_secureVersion.SDEV425HW2_secureVersion start
+INFO: USER ACCEPTED PRIVACY NOTICE MESSSAGE
+Host IP address: 172.31.208.1
+Hostname: PWalsh-E570
+UTC timestamp: 2021-07-13T15:35:17.367Z
+Jul 13, 2021 11:35:25 AM sdev425hw2_secureVersion.SDEV425HW2_secureVersion$1 handle
+INFO: Login attempt # 1
+Host IP address: 172.31.208.1
+Hostname: PWalsh-E570
+UTC timestamp: 2021-07-13T15:35:17.367Z
+Jul 13, 2021 11:35:25 AM sdev425hw2_secureVersion.SDEV425HW2_secureVersion$1 handle
+INFO: Successful login
+Jul 13, 2021 11:35:25 AM sdev425hw2_secureVersion.SDEV425HW2_secureVersion$1 handle
+INFO: Suspicious login: Unknown IP address or hostname
+Host IP address: 172.31.208.1
+Hostname: PWalsh-E570
+UTC timestamp: 2021-07-13T15:35:17.367Z
